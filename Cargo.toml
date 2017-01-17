@@ -2,5 +2,6 @@
 name = "editor"
 version = "0.1.0"
 authors = ["BookOwl <stanleybookowl@gmail.com>"]
+license = "MIT"
 
 [dependencies]
